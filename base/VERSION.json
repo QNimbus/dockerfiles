@@ -1,0 +1,9 @@
+{
+  "description": "Alpine 3.20",
+  "upstream_digest_amd64": "sha256:dabf91b69c191a1a0a1628fd6bdd029c0c4018041c7f052870bb13c5a222ae76",
+  "upstream_digest_arm64": "sha256:647a509e17306d117943c7f91de542d7fb048133f59c72dff7893cffd1836e11",
+  "upstream_image": "alpine",
+  "upstream_tag": "3.20",
+  "version": "3.2.0.0",
+  "version_s6": "3.2.0.0"
+}
